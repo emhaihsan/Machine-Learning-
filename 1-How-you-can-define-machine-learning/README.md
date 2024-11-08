@@ -15,3 +15,5 @@ There are three main types of Machine Learning:
 **Reinforcement Learning** - Model learning is based on feedback from the action that is executed and is often used for specific goals. Ex: Agent learns to play a game to maximize score.
 
 Machine learning allows the system to learn based on experience and make better predictions.
+
+![](../0-images/1.png)
